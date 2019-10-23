@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52dc8c41de25c85605c611498606a9d7",
+    "revision": "173d1a6f844817993c4aa5bfb0343d42",
     "url": "/zhekunz2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zhekunz2/static/css/2.3efeeca5.chunk.css"
   },
   {
-    "revision": "9a41da48dd83e839e9d1",
+    "revision": "344cffc37694c77a93b1",
     "url": "/zhekunz2/static/css/main.f433bd9d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zhekunz2/static/js/2.b5945638.chunk.js"
   },
   {
-    "revision": "9a41da48dd83e839e9d1",
-    "url": "/zhekunz2/static/js/main.b8682420.chunk.js"
+    "revision": "344cffc37694c77a93b1",
+    "url": "/zhekunz2/static/js/main.2fcfe7fc.chunk.js"
   },
   {
     "revision": "85565d7585c512635fa7",
@@ -96,7 +96,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zhekunz2/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "94dcf907a4f107b86871ea4b0af00dc9",
-    "url": "/zhekunz2/static/media/profile.94dcf907.jpg"
+    "revision": "15c82d56beee928d89f07a26db7df6cc",
+    "url": "/zhekunz2/static/media/profile.15c82d56.jpg"
   }
 ]);
